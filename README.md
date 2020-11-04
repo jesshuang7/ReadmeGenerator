@@ -26,7 +26,7 @@ View the [Github-pages](https://jesshuang7.github.io/readmeGenerator/)
 The focus of this project was to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
 
 
-![Project Gif](./readmegenerator.gif)
+![Project Gif](readmegenerator.gif)
 
 ### User Story
 
